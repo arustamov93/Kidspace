@@ -1,0 +1,8 @@
+{
+  "name": "KidSpace 5.0 MVP",
+  "description": "A comprehensive platform for parents to find educational institutions, read reviews, submit complaints, and shop for kids' products. Features AI-powered search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
